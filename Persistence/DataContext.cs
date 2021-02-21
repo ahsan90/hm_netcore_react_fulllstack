@@ -1,4 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore;
+using Domain;
 using System;
 
 namespace Persistence
@@ -9,7 +10,16 @@ namespace Persistence
         {
 
         }
+        public DbSet<Test> Tests { get; set; }
 
-
+        protected override void OnModelCreating(ModelBuilder builder)
+        {
+            builder.Entity<Test>()
+                .HasData(
+                    new Test { Id = 1, Name = "Test 1" },
+                    new Test { Id = 2, Name = "Test 2" },
+                    new Test { Id = 3, Name = "Test 3" }
+                );
+        }
     }
 }
