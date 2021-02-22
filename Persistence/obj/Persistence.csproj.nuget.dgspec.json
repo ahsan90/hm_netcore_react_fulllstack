@@ -98,6 +98,10 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
+            "Bogus": {
+              "target": "Package",
+              "version": "[33.0.2, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[5.0.0, )"

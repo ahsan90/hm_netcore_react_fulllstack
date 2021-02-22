@@ -11,6 +11,7 @@ namespace Persistence
 
         }
         public DbSet<Test> Tests { get; set; }
+        public DbSet<Doctor> Doctors { get; set; }
 
         protected override void OnModelCreating(ModelBuilder builder)
         {
@@ -20,6 +21,7 @@ namespace Persistence
                     new Test { Id = 2, Name = "Test 2" },
                     new Test { Id = 3, Name = "Test 3" }
                 );
+
         }
     }
 }

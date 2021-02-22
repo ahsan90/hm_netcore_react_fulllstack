@@ -59,3 +59,8 @@ D:\Project\OwnProjects\Unfinished\Hospital_management\API\bin\Debug\net5.0\Domai
 D:\Project\OwnProjects\Unfinished\Hospital_management\API\bin\Debug\net5.0\Persistence.pdb
 D:\Project\OwnProjects\Unfinished\Hospital_management\API\bin\Debug\net5.0\Humanizer.dll
 D:\Project\OwnProjects\Unfinished\Hospital_management\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Project\OwnProjects\Unfinished\Hospital_management\API\bin\Debug\net5.0\Bogus.dll
+D:\Project\OwnProjects\Unfinished\Hospital_management\API\bin\Debug\net5.0\MediatR.dll
+D:\Project\OwnProjects\Unfinished\Hospital_management\API\bin\Debug\net5.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+D:\Project\OwnProjects\Unfinished\Hospital_management\API\bin\Debug\net5.0\AutoMapper.dll
+D:\Project\OwnProjects\Unfinished\Hospital_management\API\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll

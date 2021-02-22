@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "RXsjkSCM6vfZL8LYe4pf6hqb8kuUq8JlSbNcdw3kUach8CebfAeK0vxvMAxrT24VJwKZmCRgLdNsSql254A4Jg==",
+  "dgSpecHash": "JhSLbTPr8zP6C1y/YUKE9ecz4WHyNKl58qdkhULoAIEZNMogTFmRi2AfmncZU5Hxb8A+Q5LELm2QoOr8ZhxmIw==",
   "success": true,
   "projectFilePath": "D:\\Project\\OwnProjects\\Unfinished\\Hospital_management\\Persistence\\Persistence.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\owner\\.nuget\\packages\\bogus\\33.0.2\\bogus.33.0.2.nupkg.sha512",
     "C:\\Users\\owner\\.nuget\\packages\\microsoft.data.sqlite.core\\5.0.0\\microsoft.data.sqlite.core.5.0.0.nupkg.sha512",
     "C:\\Users\\owner\\.nuget\\packages\\microsoft.dotnet.platformabstractions\\3.1.6\\microsoft.dotnet.platformabstractions.3.1.6.nupkg.sha512",
     "C:\\Users\\owner\\.nuget\\packages\\microsoft.entityframeworkcore\\5.0.0\\microsoft.entityframeworkcore.5.0.0.nupkg.sha512",
