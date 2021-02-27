@@ -1,12 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "nqzkHO6xYZQ4sEE/ZGjE0YHAqNlf8M9CR2CzlOg07LksAZSf91thza9nB0fDOXWE4EYWvSOj9em/0C3fC8tAfg==",
+  "dgSpecHash": "28yuTLkj6sGb8S52s0HmDombgCVwN4Dk9x7w9/YlPNhHjmmZBemWrmj/loN9+4Yrt3I6qYmp6f1ScyarE4bIwQ==",
   "success": true,
   "projectFilePath": "D:\\Project\\OwnProjects\\Unfinished\\Hospital_management\\Application\\Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\owner\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\owner\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",
     "C:\\Users\\owner\\.nuget\\packages\\bogus\\33.0.2\\bogus.33.0.2.nupkg.sha512",
+    "C:\\Users\\owner\\.nuget\\packages\\fluentvalidation\\9.5.1\\fluentvalidation.9.5.1.nupkg.sha512",
+    "C:\\Users\\owner\\.nuget\\packages\\fluentvalidation.aspnetcore\\9.5.1\\fluentvalidation.aspnetcore.9.5.1.nupkg.sha512",
+    "C:\\Users\\owner\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\9.5.1\\fluentvalidation.dependencyinjectionextensions.9.5.1.nupkg.sha512",
     "C:\\Users\\owner\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
     "C:\\Users\\owner\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\9.0.0\\mediatr.extensions.microsoft.dependencyinjection.9.0.0.nupkg.sha512",
     "C:\\Users\\owner\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

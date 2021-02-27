@@ -64,3 +64,6 @@ D:\Project\OwnProjects\Unfinished\Hospital_management\API\bin\Debug\net5.0\Media
 D:\Project\OwnProjects\Unfinished\Hospital_management\API\bin\Debug\net5.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
 D:\Project\OwnProjects\Unfinished\Hospital_management\API\bin\Debug\net5.0\AutoMapper.dll
 D:\Project\OwnProjects\Unfinished\Hospital_management\API\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Project\OwnProjects\Unfinished\Hospital_management\API\bin\Debug\net5.0\FluentValidation.dll
+D:\Project\OwnProjects\Unfinished\Hospital_management\API\bin\Debug\net5.0\FluentValidation.AspNetCore.dll
+D:\Project\OwnProjects\Unfinished\Hospital_management\API\bin\Debug\net5.0\FluentValidation.DependencyInjectionExtensions.dll

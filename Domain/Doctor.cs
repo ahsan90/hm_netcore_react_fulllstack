@@ -1,10 +1,12 @@
 using System;
+using System.ComponentModel.DataAnnotations;
 
 namespace Domain
 {
     public class Doctor
     {
         public Guid Id { get; set; }
+        
         public string Name { get; set; }
         public string Gender { get; set; }
         public string Specialization { get; set; }
