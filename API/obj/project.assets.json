@@ -585,7 +585,10 @@
         },
         "runtime": {
           "bin/placeholder/Application.dll": {}
-        }
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ]
       },
       "Domain/1.0.0": {
         "type": "project",
@@ -1604,11 +1607,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Project\\OwnProjects\\Unfinished\\Hospital_management\\API\\API.csproj",
+      "projectUniqueName": "C:\\Users\\owner\\Source\\Repos\\hm_netcore_react_fulllstack\\API\\API.csproj",
       "projectName": "API",
-      "projectPath": "D:\\Project\\OwnProjects\\Unfinished\\Hospital_management\\API\\API.csproj",
+      "projectPath": "C:\\Users\\owner\\Source\\Repos\\hm_netcore_react_fulllstack\\API\\API.csproj",
       "packagesPath": "C:\\Users\\owner\\.nuget\\packages\\",
-      "outputPath": "D:\\Project\\OwnProjects\\Unfinished\\Hospital_management\\API\\obj\\",
+      "outputPath": "C:\\Users\\owner\\Source\\Repos\\hm_netcore_react_fulllstack\\API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\owner\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1625,8 +1628,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "D:\\Project\\OwnProjects\\Unfinished\\Hospital_management\\Application\\Application.csproj": {
-              "projectPath": "D:\\Project\\OwnProjects\\Unfinished\\Hospital_management\\Application\\Application.csproj"
+            "C:\\Users\\owner\\Source\\Repos\\hm_netcore_react_fulllstack\\Application\\Application.csproj": {
+              "projectPath": "C:\\Users\\owner\\Source\\Repos\\hm_netcore_react_fulllstack\\Application\\Application.csproj"
             }
           }
         }

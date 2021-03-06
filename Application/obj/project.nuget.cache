@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "28yuTLkj6sGb8S52s0HmDombgCVwN4Dk9x7w9/YlPNhHjmmZBemWrmj/loN9+4Yrt3I6qYmp6f1ScyarE4bIwQ==",
+  "dgSpecHash": "ikywx/GrPeb6Tt1SApXKG/X3pP9uPdxZQB4+q9BVB8B3LFyCxhWBSvlrzMDOTsrUhH2ZisL3XjeZETP475JfIw==",
   "success": true,
-  "projectFilePath": "D:\\Project\\OwnProjects\\Unfinished\\Hospital_management\\Application\\Application.csproj",
+  "projectFilePath": "C:\\Users\\owner\\Source\\Repos\\hm_netcore_react_fulllstack\\Application\\Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\owner\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\owner\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",

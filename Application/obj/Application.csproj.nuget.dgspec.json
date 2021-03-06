@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Project\\OwnProjects\\Unfinished\\Hospital_management\\Application\\Application.csproj": {}
+    "C:\\Users\\owner\\Source\\Repos\\hm_netcore_react_fulllstack\\Application\\Application.csproj": {}
   },
   "projects": {
-    "D:\\Project\\OwnProjects\\Unfinished\\Hospital_management\\Application\\Application.csproj": {
+    "C:\\Users\\owner\\Source\\Repos\\hm_netcore_react_fulllstack\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Project\\OwnProjects\\Unfinished\\Hospital_management\\Application\\Application.csproj",
+        "projectUniqueName": "C:\\Users\\owner\\Source\\Repos\\hm_netcore_react_fulllstack\\Application\\Application.csproj",
         "projectName": "Application",
-        "projectPath": "D:\\Project\\OwnProjects\\Unfinished\\Hospital_management\\Application\\Application.csproj",
+        "projectPath": "C:\\Users\\owner\\Source\\Repos\\hm_netcore_react_fulllstack\\Application\\Application.csproj",
         "packagesPath": "C:\\Users\\owner\\.nuget\\packages\\",
-        "outputPath": "D:\\Project\\OwnProjects\\Unfinished\\Hospital_management\\Application\\obj\\",
+        "outputPath": "C:\\Users\\owner\\Source\\Repos\\hm_netcore_react_fulllstack\\Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\owner\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,11 +28,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\Project\\OwnProjects\\Unfinished\\Hospital_management\\Domain\\Domain.csproj": {
-                "projectPath": "D:\\Project\\OwnProjects\\Unfinished\\Hospital_management\\Domain\\Domain.csproj"
+              "C:\\Users\\owner\\Source\\Repos\\hm_netcore_react_fulllstack\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\owner\\Source\\Repos\\hm_netcore_react_fulllstack\\Domain\\Domain.csproj"
               },
-              "D:\\Project\\OwnProjects\\Unfinished\\Hospital_management\\Persistence\\Persistence.csproj": {
-                "projectPath": "D:\\Project\\OwnProjects\\Unfinished\\Hospital_management\\Persistence\\Persistence.csproj"
+              "C:\\Users\\owner\\Source\\Repos\\hm_netcore_react_fulllstack\\Persistence\\Persistence.csproj": {
+                "projectPath": "C:\\Users\\owner\\Source\\Repos\\hm_netcore_react_fulllstack\\Persistence\\Persistence.csproj"
               }
             }
           }
@@ -71,6 +71,9 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
@@ -79,14 +82,14 @@
         }
       }
     },
-    "D:\\Project\\OwnProjects\\Unfinished\\Hospital_management\\Domain\\Domain.csproj": {
+    "C:\\Users\\owner\\Source\\Repos\\hm_netcore_react_fulllstack\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Project\\OwnProjects\\Unfinished\\Hospital_management\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Users\\owner\\Source\\Repos\\hm_netcore_react_fulllstack\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "D:\\Project\\OwnProjects\\Unfinished\\Hospital_management\\Domain\\Domain.csproj",
+        "projectPath": "C:\\Users\\owner\\Source\\Repos\\hm_netcore_react_fulllstack\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\owner\\.nuget\\packages\\",
-        "outputPath": "D:\\Project\\OwnProjects\\Unfinished\\Hospital_management\\Domain\\obj\\",
+        "outputPath": "C:\\Users\\owner\\Source\\Repos\\hm_netcore_react_fulllstack\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\owner\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -133,14 +136,14 @@
         }
       }
     },
-    "D:\\Project\\OwnProjects\\Unfinished\\Hospital_management\\Persistence\\Persistence.csproj": {
+    "C:\\Users\\owner\\Source\\Repos\\hm_netcore_react_fulllstack\\Persistence\\Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Project\\OwnProjects\\Unfinished\\Hospital_management\\Persistence\\Persistence.csproj",
+        "projectUniqueName": "C:\\Users\\owner\\Source\\Repos\\hm_netcore_react_fulllstack\\Persistence\\Persistence.csproj",
         "projectName": "Persistence",
-        "projectPath": "D:\\Project\\OwnProjects\\Unfinished\\Hospital_management\\Persistence\\Persistence.csproj",
+        "projectPath": "C:\\Users\\owner\\Source\\Repos\\hm_netcore_react_fulllstack\\Persistence\\Persistence.csproj",
         "packagesPath": "C:\\Users\\owner\\.nuget\\packages\\",
-        "outputPath": "D:\\Project\\OwnProjects\\Unfinished\\Hospital_management\\Persistence\\obj\\",
+        "outputPath": "C:\\Users\\owner\\Source\\Repos\\hm_netcore_react_fulllstack\\Persistence\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\owner\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -157,8 +160,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\Project\\OwnProjects\\Unfinished\\Hospital_management\\Domain\\Domain.csproj": {
-                "projectPath": "D:\\Project\\OwnProjects\\Unfinished\\Hospital_management\\Domain\\Domain.csproj"
+              "C:\\Users\\owner\\Source\\Repos\\hm_netcore_react_fulllstack\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\owner\\Source\\Repos\\hm_netcore_react_fulllstack\\Domain\\Domain.csproj"
               }
             }
           }

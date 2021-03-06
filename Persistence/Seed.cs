@@ -1,4 +1,5 @@
 using System;
+using System.Linq;
 using System.Text.Json;
 using Bogus;
 using Domain;
@@ -9,7 +10,9 @@ namespace Persistence
     {
         public static void DbSeed(DataContext context)
         {
-            var docotorsSeed = new Faker<Doctor>()
+            if (!context.Doctors.Any())
+            {
+                var docotorsSeed = new Faker<Doctor>()
                 .RuleFor(x => x.Id, Guid.NewGuid)
                 .RuleFor(x => x.Name, x => "Dr. " + x.Person.FullName)
                 .RuleFor(x => x.Gender, x => x.Person.Gender.ToString())
@@ -21,10 +24,12 @@ namespace Persistence
                 .RuleFor(x => x.Date, DateTime.Now)
                 .RuleFor(x => x.Specialization, x => x.Lorem.Sentence(1));
 
-            foreach (var item in docotorsSeed.Generate(20))
-            {
-                context.Doctors.AddRange(item);
-                context.SaveChanges();
+                foreach (var item in docotorsSeed.Generate(20))
+                {
+                    context.Doctors.AddRange(item);
+                    context.SaveChanges();
+                }
+
             }
 
         }

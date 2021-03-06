@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zSaB6pkKFLs0kCAX5EunLNR381YIYM+3SD2a/g/dB8o6B816nKnBDCH2pmE0yt8tTa3h3Gq9Jtijd8N0JcQNoQ==",
+  "dgSpecHash": "3RuRX7htW3jwY4XItG9en6W/eHcRA2jp7X1GGcyiQvH84mZSr5T3/6ENZOZIUILuxL7uHAH0TnP6D534lOl43A==",
   "success": true,
-  "projectFilePath": "D:\\Project\\OwnProjects\\Unfinished\\Hospital_management\\Domain\\Domain.csproj",
+  "projectFilePath": "C:\\Users\\owner\\Source\\Repos\\hm_netcore_react_fulllstack\\Domain\\Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
