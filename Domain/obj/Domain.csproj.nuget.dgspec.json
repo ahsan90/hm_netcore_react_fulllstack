@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\owner\\Source\\Repos\\hm_netcore_react_fulllstack\\Domain\\Domain.csproj": {}
+    "D:\\Project\\OwnProjects\\Unfinished\\hm_netcore_react_fulllstack\\Domain\\Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\owner\\Source\\Repos\\hm_netcore_react_fulllstack\\Domain\\Domain.csproj": {
+    "D:\\Project\\OwnProjects\\Unfinished\\hm_netcore_react_fulllstack\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\owner\\Source\\Repos\\hm_netcore_react_fulllstack\\Domain\\Domain.csproj",
+        "projectUniqueName": "D:\\Project\\OwnProjects\\Unfinished\\hm_netcore_react_fulllstack\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\owner\\Source\\Repos\\hm_netcore_react_fulllstack\\Domain\\Domain.csproj",
+        "projectPath": "D:\\Project\\OwnProjects\\Unfinished\\hm_netcore_react_fulllstack\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\owner\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\owner\\Source\\Repos\\hm_netcore_react_fulllstack\\Domain\\obj\\",
+        "outputPath": "D:\\Project\\OwnProjects\\Unfinished\\hm_netcore_react_fulllstack\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\owner\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -39,6 +39,12 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

@@ -1,5 +1,6 @@
 using System.Threading.Tasks;
 using Domain;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using Persistence;
@@ -13,6 +14,7 @@ namespace API.Controllers
         {
             _context = context;
         }
+        [Authorize]
         [HttpGet]
         public async Task<ActionResult<Test>> Get()
         {
